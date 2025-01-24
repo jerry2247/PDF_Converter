@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Sono", sans-serif;
+  background-color: #f5f5fa;
+}
+
+.title {
+  margin-top: 50px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.uploadTitle {
+  margin-bottom: 10px;
+  font-weight: bold;
+  background-color: #ffdff4;
+}
+
+.fileListTitle {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  background-color: #ffdff4;
+}
+
+.upload {
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 15px;
+  background-color: #ffdff4;
+  padding: 30px;
+  border-style: solid;
+  border-color: rgb(123, 99, 179);
+}
+
+.generatePDFButton {
+  padding: 15px 35px 15px 35px;
+  border-radius: 10px;
+  background-color: #d3a8fe;
+  font-weight: bold;
+  border-color: rgb(123, 99, 179);
+}
+
+.generatePDFButton:hover {
+  transform: scale(1.05);
+}
+
+nav ul {
+  overflow: hidden;
+  overflow-y: scroll;
+  list-style-type: decimal;
+}
+
+.downloadButton {
+  margin-top: 40px;
+  text-align: center;
+  padding: 10px;
+}
+
+.fileList {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  height: 80px;
+  width: 328px;
+  margin-left: auto;
+  margin-right: auto;
+  list-style-type: decimal;
+  background-color: #ffffff;
+  border-style: solid;
+  padding: 10px;
+  list-style-type: none;
+}
+
+.preview {
+  font-weight: bold;
+  margin-top: 20px;
+  background-color: #ffdff4;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imagePreviewList {
+  background-color: #ffffff;
+  height: 30vh;
+}
+
+.imagePreviewListOuterContainer {
+  padding: 5px;
+  border-style: solid;
+  background-color: #ffffff;
+}
+
+.color1 {
+  background-color: #ffdff4;
+}
+
+.color2 {
+  background-color: white;
+}
+
+.previewImage {
+  width: 250px;
+  background-color: #ffffff;
+}
+
+.previewText {
+  background-color: #ffdff4;
+  margin-bottom: 10px;
+}
+
+.uploadFile {
+  background-color: #ffdff4;
+}
